@@ -1,0 +1,3 @@
+This file is for git tutorial.
+
+You MUST be staging this file for commit.
